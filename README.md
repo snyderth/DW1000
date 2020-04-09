@@ -1,6 +1,6 @@
 # arduino-dw1000
 
-![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)
+<!-- ![Maintenance](https://img.shields.io/maintenance/yes/2019.svg) -->
 ![Required know-how](https://img.shields.io/badge/Required%20know--how-professional-red.svg)
 ![Additional hardware required](https://img.shields.io/badge/Additional%20hardware-required-orange.svg)
 ![c++11](https://img.shields.io/badge/C%2B%2B-11-brightgreen.svg)
